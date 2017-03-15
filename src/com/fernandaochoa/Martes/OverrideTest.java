@@ -38,3 +38,38 @@ public class OverrideTest extends Vehiculo {
     }
 
 }
+
+/*
+Sobrecarga (Overloading)
+1.- Es usada para incrementar la legibilidad del programa
+2.- En caso de un metodo sobrecargado los parametros hacen la diferencia
+3.- La sobrecarga se realiza dentro de la clase
+4.- La sobrecarga es un ejemplo de Compile Time Polymorphism
+5.- La sobrecarga no puede realizarse cambiando el tipo de retorno solamente
+
+
+
+Redefinicion(Override)
+1.- Es usado para proveer la implementacion especifica de un metodo
+ya establecido en la superclase
+2.- En caso de una redefinicion, los parametros deben ser los mismos
+3.- La susticion del metodo se produce en dos clases distintas, pero heredadas
+4.- La redefinicion es un ejemplo de Run Time Polymorphism
+5.- El tipo de retorno debe ser igual o una variante del metodo redefinido
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
